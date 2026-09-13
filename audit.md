@@ -1,0 +1,10 @@
+| README Claim                                                        | Status            | Evidence from `struct_to_dict.py`                                                                              |
+| ------------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Converts structured student data into a Python dictionary**       | **False**         | The code defines `name`, `roll`, and `marks` as separate variables. No dictionary `{}` is created.             |
+| **Organizes student information using key-value pairs**             | **False**         | There are no dictionary key-value pairs such as `"name": name`. The values are stored in individual variables. |
+| **Simple and easy-to-understand implementation**                    | **Supported**     | The program uses basic variable assignments and `print()` statements.                                          |
+| **Beginner-friendly Python project**                                | **Supported**     | It uses basic Python concepts: variables, `print()`, and `format()`.                                           |
+| **Demonstrates basic data structures and data conversion concepts** | **Not Supported** | The code does not use a Python data structure such as a dictionary and does not perform data conversion.       |
+| **No external libraries are required**                              | **Supported**     | There are no `import` statements in the code.                                                                  |
+| **Python 3.x is required**                                          | **Unverified**    | The syntax is compatible with Python 3, but the code itself does not specify a Python version.                 |
+| **Processes structured student data**                               | **Supported**     | Student i                                                                                                      |
