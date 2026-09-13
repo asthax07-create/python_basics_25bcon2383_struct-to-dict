@@ -1,6 +1,6 @@
 # Struct-to-Dict Converter
 
-A simple Python program that converts structured student data into a Python dictionary. This project demonstrates how structured information can be represented and accessed using Python's dictionary data structure.
+This project demonstrates how structured information can be represented and accessed using Python's dictionary data structure.
 
 ## Features
 
@@ -8,11 +8,11 @@ A simple Python program that converts structured student data into a Python dict
 * Organizes student information using key-value pairs.
 * Simple and easy-to-understand implementation.
 * Beginner-friendly Python project.
-* Demonstrates basic data structures and data conversion concepts.
+  
 
 ## Requirements
 
-* Python 3.x
+*The syntax is compatible with Python 3, but the code itself does not specify a Python version.
 * No external libraries are required.
 
 ## Installation
@@ -72,10 +72,10 @@ Course: B.Tech CSE
 ```text
 .
 ├── struct_to_dict.py
-└── README.md
+
 ```
 
 ## License
 
-This project is intended for educational and p
+this license/use claim cannot be verified from the Python code.
 
